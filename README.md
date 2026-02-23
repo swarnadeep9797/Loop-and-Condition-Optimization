@@ -1,16 +1,37 @@
 # Loop and Condition Optimization
 
-This repository contains my Bachelor of Computer Application (BCA) thesis titled **“Loop and Condition Optimization.”**
+## 📘 About the Project
+This repository contains my Bachelor of Computer Application (BCA) thesis titled **"Loop and Condition Optimization."**
 
-## Contents
-- Final thesis PDF
-- Experimental C++ programs demonstrating:
-  - Loop optimization
-  - Condition optimization
-  - Time–space trade-off
+The project focuses on analyzing performance improvements in C++ programs using loop restructuring, conditional simplification, and time-space trade-offs.
 
-## Summary
-The work presents a data-driven evaluation of performance optimization techniques in programming, including compiler-assisted improvements, profiling analysis, and practical case studies.
+---
 
-## Author
-**Swarnadeep Bhattacharjee**
+## 🎯 Objectives
+- Analyze performance bottlenecks in loops
+- Optimize conditional statements
+- Compare time complexity improvements
+- Study time-space trade-offs
+
+---
+
+## 🛠 Technologies Used
+- C++
+- Algorithmic Analysis
+- Time Complexity Evaluation
+
+---
+
+## 📂 Repository Contents
+- 📄 Final Thesis PDF
+- 💻 C++ Programs Demonstrating:
+  - Loop Optimization
+  - Condition Optimization
+  - Time-Space Trade-Off
+
+---
+
+## 📈 Key Learning Outcomes
+- Improved understanding of algorithm optimization
+- Performance benchmarking techniques
+- Compiler-level optimization concepts
